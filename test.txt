@@ -1,0 +1,3 @@
+123
+git config --global user.name "shangxinxiaoshuaige"
+git config --global user.email "1270046584@qq.com"
